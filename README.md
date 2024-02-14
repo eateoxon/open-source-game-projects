@@ -1,5 +1,8 @@
 # open-source-projects
-Open source 2D Games using Love2D Game Engine (added some personal touch; unfinished, but executable)
+Open source 2D Games using Love2D Game Engine. For fun, self-learning purposes. These are not mine, and is available online, hence open-sourced.
+
+Changelogs:
+02/14/2024 --added some personal touch; games unfinished/could still be improved, but executable AND playable
 
 Pre-Conditions:
 1. Install Love2D v0.10.2 on computer;
@@ -8,3 +11,10 @@ Pre-Conditions:
 How to open a game:
 1. Inside the 2D Games folder, choose which game you want to open;
 2. Drag and drop its folder on the "love.exe" located probably on C:\Program Files\LOVE
+
+Games Included:
+- Pong vs AI!
+- Super Alien Bros
+- Crush 3
+- Flappee Bird
+
